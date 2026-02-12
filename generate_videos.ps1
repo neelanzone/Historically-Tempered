@@ -67,7 +67,7 @@ $template = @"
     <!-- Footer -->
     <footer>
         <div class="container">
-            <p>&copy; 2026 Thali by Thali. All rights reserved.</p>
+            <p>&copy; 2026 Historically Tempered Collective. All rights reserved.</p>
         </div>
     </footer>
 
